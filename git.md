@@ -33,3 +33,6 @@ git rebase <name_branch>
 ```
 git branch <new_name>
 ```
+
+
+## добавил ещё чтото
