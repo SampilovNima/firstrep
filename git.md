@@ -16,3 +16,7 @@ git rebase <name_branch>
 дополнил описание
 
 ## Cоздание новой ветки
+
+```
+git branch <new_name>
+```
