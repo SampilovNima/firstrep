@@ -13,5 +13,6 @@ git init
 ```
 git rebase <name_branch>
 ```
+дополнил описание
 
 ## Cоздание новой ветки
